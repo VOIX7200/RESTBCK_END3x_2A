@@ -4,13 +4,13 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.EA.testroom</groupId>
-    <artifactId>REST_PROJEA3X_2A</artifactId>
+    <artifactId>REST_PROJEA3X</artifactId>
     <packaging>war</packaging>
     <version>0.0.1-SNAPSHOT</version>
-    <name>REST_PROJEA3X_2A</name>
+    <name>REST_PROJEA3X</name>
 
     <build>
-        <finalName>REST_PROJEA3X_2A</finalName>
+        <finalName>REST_PROJEA3X</finalName>
          <plugins>
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
