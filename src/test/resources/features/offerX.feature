@@ -10,10 +10,10 @@ Feature: Evaluate Percentage
     #When if i enter 11000
     #Then we should get fifteen percentage discount
 
-   #Scenario: Verify 18% offer
-    #Given Execute DiscountService Business
+    #Scenario: Verify 18% offer
+   # Given Execute DiscountService Business
     #When if i enter 20001
-    #Then we should get eighteen percentage discount
+   # Then we should get eighteen percentage discount
     
     
     #Scenario: Verify 20% offer
